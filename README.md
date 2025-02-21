@@ -1,8 +1,3 @@
-# Emotion Detection in Text using Natural Language Processing
-
-<img src="./images/index.png"/>
-
-<br>
 
 # Introduction
 Emotion detection in text data involves identifying the emotions expressed in textual data. This can be a challenging task since emotions are often expressed in complex and subtle ways. Natural language processing (NLP) techniques can be used to analyze text data and identify the emotions expressed in it.
@@ -21,20 +16,3 @@ The <a src="./data/">dataset</a> used for this project contains text data labele
 # Results
 The Logistic Regression achieved an accuracy of 62% on the data.
 
-# Installation
-1. Clone the repository to your local machine:
-```
-https://github.com/SannketNikam/Emotion-Detection-in-Text.git
-```
-
-2. Install the 'requirements.txt':
-```
-pip install -r requirements.txt
-```
-
-3. To run this project :
-```
-streamlit run app.py
-```
-
-4. It'll automatically open the Streamlit app in your default browser.
